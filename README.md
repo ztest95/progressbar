@@ -97,17 +97,17 @@ Check out [CONTRIBUTING.md](CONTRIBUTING.md) to learn how to contribute!
 	<tbody>
 		<tr>
             <td align="center">
-                <a href="https://github.com/guibranco">
-                    <img src="https://avatars.githubusercontent.com/u/3362854?v=4" width="100;" alt="guibranco"/>
-                    <br />
-                    <sub><b>Guilherme Branco Stracini</b></sub>
-                </a>
-            </td>
-            <td align="center">
                 <a href="https://github.com/ztest95">
                     <img src="https://avatars.githubusercontent.com/u/110767420?v=4" width="100;" alt="ztest95"/>
                     <br />
                     <sub><b>ztest95</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/guibranco">
+                    <img src="https://avatars.githubusercontent.com/u/3362854?v=4" width="100;" alt="guibranco"/>
+                    <br />
+                    <sub><b>Guilherme Branco Stracini</b></sub>
                 </a>
             </td>
             <td align="center">
